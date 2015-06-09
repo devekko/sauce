@@ -1,0 +1,14 @@
+name = Chaos tools
+description = A library of helpful tools by Merlin of Chaos.
+core = 7.x
+package = Chaos tool suite
+files[] = includes/context.inc
+files[] = includes/css-cache.inc
+files[] = includes/math-expr.inc
+files[] = includes/stylizer.inc
+files[] = tests/css_cache.test
+
+; Information added by drush on 2014-12-23
+version = "1.6-rc1-dev"
+project = "ctools"
+datestamp = "1419364257"

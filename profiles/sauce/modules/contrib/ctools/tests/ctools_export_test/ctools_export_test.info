@@ -1,0 +1,13 @@
+name = CTools export test
+description = CTools export test module
+core = 7.x
+package = Chaos tool suite
+dependencies[] = ctools
+hidden = TRUE
+
+files[] = ctools_export.test
+
+; Information added by drush on 2014-12-23
+version = "1.6-rc1-dev"
+project = "ctools"
+datestamp = "1419364257"

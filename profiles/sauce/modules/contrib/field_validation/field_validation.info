@@ -1,0 +1,12 @@
+name = Field Validation
+description = "Add validation rules to fields."
+package = Fields
+core = 7.x
+dependencies[] = field
+dependencies[] = ctools
+files[] = field_validation_validator.inc
+
+; Information added by drush on 2014-10-11
+version = "2.x-dev-dev"
+project = "field_validation"
+datestamp = "1413029143"

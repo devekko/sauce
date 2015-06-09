@@ -1,0 +1,9 @@
+name = Term Depth access
+description = Controls access to context based upon term depth
+core = 7.x
+dependencies[] = ctools
+package = Chaos tool suite
+; Information added by drush on 2014-12-23
+version = "1.6-rc1-dev"
+project = "ctools"
+datestamp = "1419364257"

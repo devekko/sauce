@@ -1,0 +1,13 @@
+name = Panels translation
+description = Supports translatable panels items.
+dependencies[] = i18n
+dependencies[] = panels
+dependencies[] = i18n_string
+dependencies[] = i18n_translation
+package = Multilingual - Internationalization
+core = 7.x
+
+; Information added by drush on 2014-12-23
+version = "3.x-dev-dev"
+project = "panels"
+datestamp = "1419361937"
